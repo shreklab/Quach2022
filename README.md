@@ -11,5 +11,4 @@ STRUCTURE
 
 EXAMPLES
 - To calculate egg distances: Run egg_distribution/calculate_egg_distances.m on egg_distribution/sample_input.
-- To manually track P. pacificus mouth position: Run patrol_speed/manually_track.m on patrol_speed/sample_input/111415_154619575_downsampled.avi.
 - To calculate patrol, translational, and normalized patrol speeds: Run patrol_speed/calculate_speeds.m on patrol_speed/sample_input/111415_154619575_tracks.mat and patrol_speed/sample_input/111415_154619575_transitions.txt.
